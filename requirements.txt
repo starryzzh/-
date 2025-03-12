@@ -1,0 +1,11 @@
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.2
+torch==2.0.1+cu117 --extra-index-url https://download.pytorch.org/whl/cu117
+tensorflow==2.12.0
+mlflow==2.3.1
+wandb==0.15.4
+recbole==1.1.1
+cornac==1.15.0
+tqdm==4.65.0
+python-dateutil==2.8.2
